@@ -1,2 +1,0 @@
-# corso-react
-corso React
